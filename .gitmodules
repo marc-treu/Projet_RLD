@@ -1,0 +1,3 @@
+[submodule "DeepRTS"]
+	path = DeepRTS
+	url = https://github.com/cair/deep-rts.git
