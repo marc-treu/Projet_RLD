@@ -89,7 +89,7 @@ def main_dynaq(env, episodes, agent):
 
 if __name__ == "__main__":
     episodes = 1000
-    
+
     env = GoldCollect({}, 100, 'gold')  # ou lumber pour le bois
 
     env.game.set_max_fps(100000)
